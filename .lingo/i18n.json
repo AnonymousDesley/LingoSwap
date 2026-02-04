@@ -1,0 +1,11 @@
+{
+  "locales": [
+    "en"
+  ],
+  "defaultLocale": "en",
+  "sourceLocale": "en",
+  "pseudoLocale": "pseudo",
+  "fallbackLocales": {
+    "default": "en"
+  }
+}
