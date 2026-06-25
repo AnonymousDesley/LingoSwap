@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "LingoSwap - i18n Migration Engine",
-  description: "Automating your transition to Lingo.dev",
+  description: "Automating your transition into Lingo.dev",
 };
 
 export default function RootLayout({
