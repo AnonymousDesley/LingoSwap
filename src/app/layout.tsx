@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "LingoSwap - i18n(inter) Migration Engine",
+  title: "LingoSwap - i18n(intern) Migration Engine",
   description: "Automating your transition into lingo.dev",
 };
 
